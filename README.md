@@ -17,9 +17,9 @@ YouTube Bookmarks is a powerful extension designed to revolutionize your YouTube
 # Download
 [Chrome](https://byteperks.com/url/ytbookmarkchrome) , [Firefox](https://byteperks.com/url/ytbookmarkfirefox)
 # Screenshots
-![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/ytbookmark/bg.png)
-![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/ytbookmark/fullvideo.png)
-![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/ytbookmark/shorts.png)
+![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/bg.png)
+![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/fullvideo.png)
+![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/shorts.png)
 
 # Usage
 - Open a YouTube video or Short.
