@@ -1,5 +1,6 @@
 # YouTube Bookmarks
-YouTube Bookmarks Logo 
+![Youtube Bookmarks](https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/screenshots/name-yt.png)
+ 
 
 # Overview
 YouTube Bookmarks is a powerful extension designed to revolutionize your YouTube experience. Say goodbye to the hassle of managing your favorite videos and shorts on YouTube. With intuitive features and a user-friendly interface, this extension offers seamless bookmarking and efficient video organization.
